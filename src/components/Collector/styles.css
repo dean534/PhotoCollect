@@ -1,0 +1,7 @@
+.collector_main {
+  background: url("https://images.pexels.com/photos/594375/nature-milky-way-stars-galaxy-594375.jpeg?cs=srgb&dl=abstract-astronomy-constellation-594375.jpg&fm=jpg")
+    center center;
+  background-size: cover;
+  min-height: 100vh;
+  padding-bottom: 1rem;
+}

@@ -1,0 +1,15 @@
+.model_photo {
+  max-width: 80vw;
+  max-height: 90vh;
+  position: relative;
+  overflow:hidden;
+}
+.btn-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: rgba(221, 221, 221, 0.3);
+}
+.btn-close:hover {
+  background: rgba(221, 221, 221, 0.7);
+}

@@ -1,0 +1,17 @@
+.entry_header{
+    background: url(https://cdn.pixabay.com/photo/2013/03/02/02/40/forest-89179_1280.jpg) center center no-repeat;
+    background-size: cover;
+    min-width: 100vw;
+    min-height: 100vh
+  }
+.entry_segment{
+    text-align: center;
+    background-color: rgba(0,0,0,0.7);
+    width:90vw;
+    max-width: 700px;
+  }
+.entry_btn{
+    background-color: rgb(214,73,55);
+    color: white;
+    font-weight: bold
+  }

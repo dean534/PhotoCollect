@@ -1,0 +1,35 @@
+.navbar-logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.headBar_avatar {
+  width: 40px;
+  overflow: hidden;
+  margin: 0 6px;
+}
+.headBar_nav {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+.headBar_user {
+  display: flex;
+  align-items: center;
+  margin: 0 6px;
+}
+.headBar_btn {
+  height: 100%;
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+
+.headBar_username {
+  display: none;
+}
+
+@media (min-width: 568px) {
+  .headBar_username {
+    display: inline;
+  }
+}

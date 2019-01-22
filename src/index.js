@@ -4,7 +4,7 @@ import { createStore, applyMiddleware, compose } from "redux";
 import { Provider } from "react-redux";
 import ReduxThunk  from 'redux-thunk';
 
-import reducers from "./reducers/index";
+import reducers from "./reducers/reducers";
 import App from './components/App'
 
 const root = document.querySelector("#root");
