@@ -34,7 +34,7 @@ class Content extends React.Component {
           >
             <img
               className="img-fluid rounded img-thumbnail"
-              src={data.largeImageURL || data.src.large}
+              src={data.webformatURL || data.src.large}
               alt="img"
             />
           </div>
